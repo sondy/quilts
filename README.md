@@ -1,3 +1,2 @@
-# quilts
-Quilts in Space website
-http://quiltsin.space
+# Quilts in Space
+T-shirt and memory quilts with heart and sass
