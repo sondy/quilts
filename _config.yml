@@ -21,15 +21,21 @@
 title: Quilts in Space!
 email: sondy@sondy.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Quilts in Space! T-shirt and memory quilts with heart and sass.
+  T-shirt and memory quilts with heart and sass.
 domain: quiltsin.space
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://quiltsin.space" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sondy
 bsky_username: quiltsin.space
+author:
+  name: Alessondra "Sondy" Springmann
+  url: https://www.sondy.com
+
+lang: en
+timezone: America/Denver
 
 # Build settings
-remote_theme: https://github.com/volny/creative-theme-jekyll
+remote_theme: creative-theme-jekyll
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
