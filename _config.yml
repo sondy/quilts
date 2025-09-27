@@ -29,7 +29,7 @@ github_username:  sondy
 bsky_username: quiltsin.space
 
 # Build settings
-remote_theme: creative-theme-jekyll
+remote_theme: https://github.com/volny/creative-theme-jekyll
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
