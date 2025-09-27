@@ -35,7 +35,8 @@ lang: en
 timezone: America/Denver
 
 # Build settings
-remote_theme: creative-theme-jekyll
+# remote_theme: creative-theme-jekyll
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
