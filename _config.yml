@@ -22,7 +22,7 @@ title: Quilts in Space!
 email: sondy@sondy.com
 description: T-shirt and memory quilts with heart and sass.
 # baseurl: "/docs" # the subpath of your site, e.g. /blog
-url: "https://quiltsin.space" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sondy.github.io/quilts" # the base hostname & protocol for your site, e.g. http://example.com
 domain: quiltsin.space
 
 github_username:  sondy
