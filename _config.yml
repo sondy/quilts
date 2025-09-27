@@ -29,9 +29,10 @@ github_username:  sondy
 bsky_username: quiltsin.space
 
 # Build settings
-theme: minima
+remote_theme: creative-theme-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
